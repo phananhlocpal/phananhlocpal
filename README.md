@@ -5,14 +5,13 @@
 <a href='https://www.facebook.com/phananhloc.pal/'><img align='left' alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height='18px'/></a>
 <a href='https://www.instagram.com/phananhloc.pal_/'><img align='left' alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height='18px'/></a>
 
-### Hey 👋! Nice to see you.
-<br>
+# Hey 👋! Nice to see you.
 Welcome to my page!
 <br/>
 I'm Loc Phan Anh (Paul), a technology lover. I from  Ho Chi Minh City, Vietnam.
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. 
 
-# 🔨 Language and tool
+### 🔨 Language and tool
 <br/>
 <img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="18px"/>
 <img align="left" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="18px"/>
