@@ -29,12 +29,3 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
     <img align="left" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" height="18px"/>
     <img align="left" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="18px"/>
 </div>
-                        </svg>
-                        Reached maximum execution time for analysis, partial results are displayed
-                    </div>
-                </div>
-            </section>
-        </div>
-        <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
-    </foreignObject>
-</svg>
